@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">AboutMe</string>
+    <string name="app_name">About Me</string>
+    <string name="name">Anjali Vithalkar</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello This is Anjali.\n\n 1. I am a mom, a wife and a daughter. I like going on hikes.\n\n
+        Half dome was epic hike for me.\n\n I am a mom, a wife and a daughter. I like going on hikes.\n\n
+        Half dome was epic hike for me.
+    \n\n 2.I am a mom, a wife and a daughter. I like going on hikes.\n\n
+        Half dome was epic hike for me.
+    \n\n 3.I am a mom, a wife and a daughter. I like going on hikes.\n\n
+        Half dome was epic hike for me.
+    \n\n 4.I am a mom, a wife and a daughter. I like going on hikes.\n\n
+        Half dome was epic hike for me.
+    \n\n 5.I am a mom, a wife and a daughter. I like going on hikes.\n\n
+        Half dome was epic hike for me.
+    \n\n 6.I am a mom, a wife and a daughter. I like going on hikes.\n\n
+        Half dome was epic hike for me.
+    \n\n 7.I am a mom, a wife and a daughter. I like going on hikes.\n\n
+        Half dome was epic hike for me.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
 </resources>
